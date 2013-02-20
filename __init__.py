@@ -13,16 +13,16 @@ Created on 05.12.2011
 
 bl_info = {
     "name": "Ldraw format",
-    "description": "Load Ldraw format",
+    "description": "Create or replace from LDraw format",
     "author": "Daniel Toplak",
     "version": (1,0),
     "blender": (2, 5, 9),
     "api": 42438,
-    "location": "File > Import-Export > Ldraw",
+    "location": "3D View > Tools",
     "warning": "",
     "wiki_url": "",
     "tracker_url": "",
-    "category": "Import-Export"
+    "category": "3D View"
 }
 
 
